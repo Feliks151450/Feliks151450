@@ -2,6 +2,7 @@
 title: Welcome to Feliks' website
 ---
 ## Contents
+you may need a "ladder" or change the DNS to access links below
 1. notes for papers
 2. guidebook for LBM:
 [LBM](https://www.craft.do/s/i3sHOWzLpcMbCH)
