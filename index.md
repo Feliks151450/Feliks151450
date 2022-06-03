@@ -1,5 +1,4 @@
 ---
-layjout: page
 title: Blogging Like a Hacker
 ---
 # Welcome to Feliks' website
