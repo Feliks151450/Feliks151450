@@ -1,8 +1,7 @@
 ---
-title: Blogging Like a Hacker
+title: Welcome to Feliks' website
 ---
-# Welcome to Feliks' website
-## test
+## contents
 1. notes for papers
 2. guidebook for LBM:
 [LBM](https://www.craft.do/s/i3sHOWzLpcMbCH)
