@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 # Welcome to Feliks' website
 ## test
 1. notes for papers
